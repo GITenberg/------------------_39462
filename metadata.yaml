@@ -1,0 +1,40 @@
+_repo: '------------------_39462'
+_version: 0.1.0
+alternative_title: Socrates' Apology
+contributor:
+  translator:
+    agent_name: Moraitides, Alexandros
+    aliases:
+    - Μωραιτιδης, Αλεξανδρος
+    - Μωραϊτίδης, Αλέξανδρος
+    - Andronikos, Monachos
+    birthdate: 1850
+    deathdate: 1929
+    gutenberg_agent_id: '34795'
+    url: http://www.gutenberg.org/2009/agents/34795
+covers:
+- cover_type: archival
+  image_path: 39462-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2012-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39462'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socrates, 470 BC-399 BC'
+- !lcc 'B'
+title: Απολογία Σωκράτους
+url: http://www.gutenberg.org/ebooks/39462
